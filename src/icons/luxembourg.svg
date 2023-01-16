@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 21" width="28" height="21">
+	<title>Шапка</title>
+	<defs>
+		<image  width="28" height="21" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAVBAMAAACnLJNvAAAAAXNSR0IB2cksfwAAACdQTFRF7jFA7zJA7Sk57SQ07jpI/u3u////6ff8FqjgAJ/dAKHeFp/WGJ7WzhZZ1gAAADVJREFUeJxjYBREBgxKKIA0rjEKYHBBAQyhKIAhDQVQxC1HAQwdKIBhJgpgWIUCSOPuOYMMAK24dfNY3VI4AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Шапка">
+		<use id="-e- Layer 1" href="#img1" x="0" y="0" />
+	</g>
+</svg>
